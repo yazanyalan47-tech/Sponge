@@ -1,0 +1,6 @@
+{
+  "name": "Sponge Price Calculator - Akram Assaf",
+  "description": "A specialized application for calculating sponge sheet prices based on dimensions, type, and discount, with invoice management and printing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
